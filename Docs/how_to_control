@@ -1,0 +1,1 @@
+The implemented web server uses two sliders that each control the speed of a wheel, and uses speed from -255 to 255 including 0.
