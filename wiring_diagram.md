@@ -1,11 +1,11 @@
-Components:
+#Components:
 ESP32
 TB6612FNG Motor Driver
 6 Pre-resisted LEDs
 9V Battery
 Breadboard
 
-Connections:
+#Connections:
 
 TB6612FNG to Motors
 
