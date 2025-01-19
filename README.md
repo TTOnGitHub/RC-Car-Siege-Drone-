@@ -21,6 +21,7 @@ Detailed instructions for building the RC car, including assembly, wiring, and u
 - TB6612FNG Motor Driver
 - 9V or rechargeable LiPo battery
 - LEDs (pre-resisted and shrink-wrapped to cables for ease of use)
+- (Glue, Tape, Wires, breadboard, etc)
 
 ## License
 
