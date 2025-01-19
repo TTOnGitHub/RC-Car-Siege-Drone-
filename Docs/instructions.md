@@ -10,7 +10,7 @@ Download the 3D print files from https://cults3d.com/en/3d-model/game/functional
 
 ## 2. Assembly
 
-1. **Print the 3D printed parts**: Follow the provided print files and print the chassis, wheels, and other components.
+1. **Print the 3D printed parts**: Follow the provided print files and print the chassis, wheels, and other components. Wheels should be printed in TPU and main chassis in PLA, ABS, or PETG, But i have only tested PLA for wheel and chassis. 
 2. **Attach the motors**: Attach the DC motors to the motor holes.
 3. **Wiring**: Connect the motor driver, Arduino, and motors. Refer to the wiring diagram in Docs/wiring_diagram.md:
 4. **Assemble the 3D printed parts**: Connect the wheels to the motor shafts, attach the top of the chassis (use tape or other form to secure top to bottom, with all components inside.
