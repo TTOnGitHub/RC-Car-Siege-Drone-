@@ -4,6 +4,7 @@
 - 6 Pre-resisted LEDs
 - 9V Battery
 - Breadboard
+- N20 Micro Geared Motor x2 6v
 
 # Connections:
 
