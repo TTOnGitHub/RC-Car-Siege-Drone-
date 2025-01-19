@@ -16,7 +16,7 @@ Detailed instructions for building the RC car, including assembly, wiring, and u
 
 ## Parts List
 
-- DC motors
+- N20 Micro Geared Motor x2 6v
 - ESP32
 - TB6612FNG Motor Driver
 - 9V or rechargeable LiPo battery
